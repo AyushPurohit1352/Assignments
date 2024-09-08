@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Jack Snow",
+        "roll_number": "101",
+        "year": 1,
+        "percentage": 75.0,
+        "fee_paid": false
+    },
+    {
+        "name": "Rahul Jain",
+        "roll_number": "102",
+        "year": 1,
+        "percentage": 96.0,
+        "fee_paid": false
+    },
+    {
+        "name": "Rohit",
+        "roll_number": "201",
+        "year": 2,
+        "percentage": 99.0,
+        "fee_paid": true
+    },
+    {
+        "name": "Rishabh Das",
+        "roll_number": "301",
+        "year": 3,
+        "percentage": 92.0,
+        "fee_paid": false
+    },
+    {
+        "name": "John",
+        "roll_number": "404",
+        "year": 4,
+        "percentage": 71.0,
+        "fee_paid": true
+    }
+]

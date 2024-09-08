@@ -1,0 +1,32 @@
+[
+    {
+        "Name": "Jack Snow",
+        "Roll Number": "101",
+        "Year": 1,
+        "Status": "Not Paid"
+    },
+    {
+        "Name": "Rahul Jain",
+        "Roll Number": "102",
+        "Year": 1,
+        "Status": "Not Paid"
+    },
+    {
+        "Name": "Rohit",
+        "Roll Number": "201",
+        "Year": 2,
+        "Status": "Paid"
+    },
+    {
+        "Name": "Rishabh Das",
+        "Roll Number": "301",
+        "Year": 3,
+        "Status": "Not Paid"
+    },
+    {
+        "Name": "John",
+        "Roll Number": "404",
+        "Year": 4,
+        "Status": "Paid"
+    }
+]
